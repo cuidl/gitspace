@@ -1,0 +1,159 @@
+OpenPLC Runtime starting...
+Interactive Server: Listening on port 43628
+Device D1 is disconnected. Attempting to reconnect...
+Warning: Persistent Storage file not found
+Connection failed on MB device D1: Operation now in progress
+Device D1 is disconnected. Attempting to reconnect...
+Issued start_modbus() command to start on port: 502
+Server: Listening on port 502
+Server: waiting for new client...
+Issued stop_dnp3() command
+Issued stop_enip() command
+Issued stop_pstorage() command
+Connection failed on MB device D1: Operation now in progress
+Device D1 is disconnected. Attempting to reconnect...
+Connection failed on MB device D1: Operation now in progress
+Device D1 is disconnected. Attempting to reconnect...
+Connection failed on MB device D1: Operation now in progress
+Device D1 is disconnected. Attempting to reconnect...
+Connection failed on MB device D1: Operation now in progress
+Device D1 is disconnected. Attempting to reconnect...
+Connection failed on MB device D1: Operation now in progress
+Device D1 is disconnected. Attempting to reconnect...
+Connection failed on MB device D1: Operation now in progress
+Device D1 is disconnected. Attempting to reconnect...
+Connection failed on MB device D1: Operation now in progress
+Device D1 is disconnected. Attempting to reconnect...
+Connected to MB device D1
+Modbus Read Discrete Input Registers failed on MB device D1: Illegal function
+Modbus Write Coils failed on MB device D1: Bad file descriptor
+Modbus Read Input Registers failed on MB device D1: Bad file descriptor
+Modbus Read Holding Registers failed on MB device D1: Bad file descriptor
+Modbus Write Holding Registers failed on MB device D1: Bad file descriptor
+Device D1 is disconnected. Attempting to reconnect...
+Connected to MB device D1
+Modbus Read Discrete Input Registers failed on MB device D1: Illegal function
+Modbus Write Coils failed on MB device D1: Bad file descriptor
+Modbus Read Input Registers failed on MB device D1: Bad file descriptor
+Modbus Read Holding Registers failed on MB device D1: Bad file descriptor
+Modbus Write Holding Registers failed on MB device D1: Bad file descriptor
+Device D1 is disconnected. Attempting to reconnect...
+Connected to MB device D1
+Modbus Read Discrete Input Registers failed on MB device D1: Illegal function
+Modbus Write Coils failed on MB device D1: Bad file descriptor
+Modbus Read Input Registers failed on MB device D1: Bad file descriptor
+Modbus Read Holding Registers failed on MB device D1: Bad file descriptor
+Modbus Write Holding Registers failed on MB device D1: Bad file descriptor
+Device D1 is disconnected. Attempting to reconnect...
+Connected to MB device D1
+Modbus Read Discrete Input Registers failed on MB device D1: Illegal function
+Modbus Write Coils failed on MB device D1: Bad file descriptor
+Modbus Read Input Registers failed on MB device D1: Bad file descriptor
+Modbus Read Holding Registers failed on MB device D1: Bad file descriptor
+Modbus Write Holding Registers failed on MB device D1: Bad file descriptor
+Device D1 is disconnected. Attempting to reconnect...
+Connected to MB device D1
+Modbus Read Discrete Input Registers failed on MB device D1: Illegal function
+Modbus Write Coils failed on MB device D1: Bad file descriptor
+Modbus Read Input Registers failed on MB device D1: Bad file descriptor
+Modbus Read Holding Registers failed on MB device D1: Bad file descriptor
+Modbus Write Holding Registers failed on MB device D1: Bad file descriptor
+Device D1 is disconnected. Attempting to reconnect...
+Connected to MB device D1
+Modbus Read Discrete Input Registers failed on MB device D1: Illegal function
+Modbus Write Coils failed on MB device D1: Bad file descriptor
+Modbus Read Input Registers failed on MB device D1: Bad file descriptor
+Modbus Read Holding Registers failed on MB device D1: Bad file descriptor
+Modbus Write Holding Registers failed on MB device D1: Bad file descriptor
+Device D1 is disconnected. Attempting to reconnect...
+Connected to MB device D1
+Modbus Read Discrete Input Registers failed on MB device D1: Illegal function
+Modbus Write Coils failed on MB device D1: Bad file descriptor
+Modbus Read Input Registers failed on MB device D1: Bad file descriptor
+Modbus Read Holding Registers failed on MB device D1: Bad file descriptor
+Modbus Write Holding Registers failed on MB device D1: Bad file descriptor
+Device D1 is disconnected. Attempting to reconnect...
+Connected to MB device D1
+Modbus Read Discrete Input Registers failed on MB device D1: Illegal function
+Modbus Write Coils failed on MB device D1: Bad file descriptor
+Modbus Read Input Registers failed on MB device D1: Bad file descriptor
+Modbus Read Holding Registers failed on MB device D1: Bad file descriptor
+Modbus Write Holding Registers failed on MB device D1: Bad file descriptor
+Device D1 is disconnected. Attempting to reconnect...
+Connected to MB device D1
+Modbus Read Discrete Input Registers failed on MB device D1: Illegal function
+Modbus Write Coils failed on MB device D1: Bad file descriptor
+Modbus Read Input Registers failed on MB device D1: Bad file descriptor
+Modbus Read Holding Registers failed on MB device D1: Bad file descriptor
+Modbus Write Holding Registers failed on MB device D1: Bad file descriptor
+Device D1 is disconnected. Attempting to reconnect...
+Connected to MB device D1
+Modbus Read Discrete Input Registers failed on MB device D1: Illegal function
+Modbus Write Coils failed on MB device D1: Bad file descriptor
+Modbus Read Input Registers failed on MB device D1: Bad file descriptor
+Modbus Read Holding Registers failed on MB device D1: Bad file descriptor
+Modbus Write Holding Registers failed on MB device D1: Bad file descriptor
+Device D1 is disconnected. Attempting to reconnect...
+Connected to MB device D1
+Modbus Read Discrete Input Registers failed on MB device D1: Illegal function
+Modbus Write Coils failed on MB device D1: Bad file descriptor
+Modbus Read Input Registers failed on MB device D1: Bad file descriptor
+Modbus Read Holding Registers failed on MB device D1: Bad file descriptor
+Modbus Write Holding Registers failed on MB device D1: Bad file descriptor
+Device D1 is disconnected. Attempting to reconnect...
+Connected to MB device D1
+Modbus Read Discrete Input Registers failed on MB device D1: Illegal function
+Modbus Write Coils failed on MB device D1: Bad file descriptor
+Modbus Read Input Registers failed on MB device D1: Bad file descriptor
+Modbus Read Holding Registers failed on MB device D1: Bad file descriptor
+Modbus Write Holding Registers failed on MB device D1: Bad file descriptor
+Device D1 is disconnected. Attempting to reconnect...
+Connected to MB device D1
+Modbus Read Discrete Input Registers failed on MB device D1: Illegal function
+Modbus Write Coils failed on MB device D1: Bad file descriptor
+Modbus Read Input Registers failed on MB device D1: Bad file descriptor
+Modbus Read Holding Registers failed on MB device D1: Bad file descriptor
+Modbus Write Holding Registers failed on MB device D1: Bad file descriptor
+Device D1 is disconnected. Attempting to reconnect...
+Connected to MB device D1
+Modbus Read Discrete Input Registers failed on MB device D1: Illegal function
+Modbus Write Coils failed on MB device D1: Bad file descriptor
+Modbus Read Input Registers failed on MB device D1: Bad file descriptor
+Modbus Read Holding Registers failed on MB device D1: Bad file descriptor
+Modbus Write Holding Registers failed on MB device D1: Bad file descriptor
+Device D1 is disconnected. Attempting to reconnect...
+Connected to MB device D1
+Modbus Read Discrete Input Registers failed on MB device D1: Illegal function
+Modbus Write Coils failed on MB device D1: Bad file descriptor
+Modbus Read Input Registers failed on MB device D1: Bad file descriptor
+Modbus Read Holding Registers failed on MB device D1: Bad file descriptor
+Modbus Write Holding Registers failed on MB device D1: Bad file descriptor
+Device D1 is disconnected. Attempting to reconnect...
+Connected to MB device D1
+Modbus Read Discrete Input Registers failed on MB device D1: Illegal function
+Modbus Write Coils failed on MB device D1: Bad file descriptor
+Modbus Read Input Registers failed on MB device D1: Bad file descriptor
+Modbus Read Holding Registers failed on MB device D1: Bad file descriptor
+Modbus Write Holding Registers failed on MB device D1: Bad file descriptor
+Device D1 is disconnected. Attempting to reconnect...
+Connected to MB device D1
+Modbus Read Discrete Input Registers failed on MB device D1: Illegal function
+Modbus Write Coils failed on MB device D1: Bad file descriptor
+Modbus Read Input Registers failed on MB device D1: Bad file descriptor
+Modbus Read Holding Registers failed on MB device D1: Bad file descriptor
+Modbus Write Holding Registers failed on MB device D1: Bad file descriptor
+Device D1 is disconnected. Attempting to reconnect...
+Connected to MB device D1
+Modbus Read Discrete Input Registers failed on MB device D1: Connection reset by peer
+Modbus Write Coils failed on MB device D1: Bad file descriptor
+Modbus Read Input Registers failed on MB device D1: Bad file descriptor
+Modbus Read Holding Registers failed on MB device D1: Bad file descriptor
+Modbus Write Holding Registers failed on MB device D1: Bad file descriptor
+Device D1 is disconnected. Attempting to reconnect...
+Connection failed on MB device D1: Operation now in progress
+Device D1 is disconnected. Attempting to reconnect...
+Connection failed on MB device D1: Operation now in progress
+Device D1 is disconnected. Attempting to reconnect...
+Connection failed on MB device D1: Operation now in progress
+Device D1 is disconnected. Attempting to reconnect...
+Connected to MB device D1
